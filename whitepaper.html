@@ -1,0 +1,861 @@
+<!--This is the whitepaper page, it is created to show users our intent for the project-->
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://html5-templates.com/" />
+    <title>zkBitcoin Token</title>
+<meta name="description" content="zkBitcoin Token is a decentralized bitcoin inspired proof-of-work contract on the zk Sync Era Blockchain.  View this webpage for the Whitepaper">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="css/rounded-icons.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+
+<body>    
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html" target="_self" aria-label="FORGE"><img alt="FORGE" src="img/forgeprofile circle-02.png" width="100px" height="110px" class="img-responsive"></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right"> <li>
+                        <a href="/" style="font-size:1.1em">Home</a>
+                    </li>
+                  <li>
+                    <a href="https://syncswap.xyz/swap?outputCurrency=0x366d17aDB24A7654DbE82e79F85F9Cb03c03cD0D" style="font-size:1.1em">Buy zkBTC</a>
+                </li>
+                    <li>
+                        <a href="stats.html"style="font-size:1.1em">Token Stats</a>
+                    </li>
+                    <!--an ordered list stan made me remove 3 times-->
+                   <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:1.25em">zkBTC Instructions<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+
+                            <li>
+                                <a href="whitepaper.html"style="font-size:1.1em">Whitepaper</a>
+                            </li>
+                            <li>
+                                <a href="howtomine.html"style="font-size:1.1em">How to Mine</a>
+                            </li>
+                            <li>
+                                <a href="team.html"style="font-size:1.1em">Contact Us</a>
+                            </li>
+                        </ul>
+                    </li>
+                        </ul>
+            </div>
+            <!-- class /.navbar-collapse -->
+        </div>
+        <!-- class /.container -->
+    </nav>
+    
+    <!-- Header Carousel -->
+		    <header id="myCarousel" class="carousel slide">
+    <div class="banner-container">
+  <img src="img/banner_orange.png" alt="Banner" class="banner-image">
+  <div class="icon-wrapper">
+  	<img src="img/zkBitcoin.png" alt="Icon" class="icon-overlay">
+  </div>
+</div>
+  <div class="corner-image-container"></div> <!-- Div with the new class -->
+</div>
+    </header>
+            <div class="col-lg-12" style="text-align: center;">
+                <h2 class="page-header">White Paper</h2>
+            </div>
+        <!--whitepaper start, "h" tags are headers, and "pre" tags are pre formatted information-->
+        <div style="padding:0% 5% 5% 5%;">
+
+<h2 id="zkBitcoin-token">zkBitcoin Token</h2>
+<h4 id="-whitepaper-revision-1-0-17-">( Whitepaper Revision 0.0.02 )</h4>
+<h4 id="zkBitcoin-token-the-decentralized-bitcoin-token-for-zkSync-Era">zkBitcoin Token : The Decentralized Bitcoin Token for zkSync Era</h4>
+<hr>
+<h3 id="abstract">Abstract</h3>
+<p>The zkSync Era Network has launched as the a leading layer 2 solution to Ethereum and has a world class leading ecosystem for permissionless, transparent, and immutable software applications.  These software applications, typically taking the form of Smart Contracts, can all seamlessly interact with each other.  To facilitate this process, various standard protocols have been developed such as the ERC20 standard for a common ‘token’ format so that these Smart Contracts can pass scarce, owned, and transferable data between one another without a centralized mediator.  Most ERC20 tokens have been distributed in a matter that is generally known to align with ‘securities.’  The tokens are sold to ‘investors’ by the ‘creator’ under the pretenses that the ‘creator’ will perform some action to make the tokens more valuable.  It should be clarified that Bitcoin is distributed via ‘bitcoin mining’ and therefore aligns itself as a ‘commodity’ and not a ‘security.’  This whitepaper will describe a ERC20 token that aligns itself as a ‘commodity’ since it is distributed using ‘Proof of Work Mining’.  This token is also transferred on a blockchain in a method very similar to Bitcoin and so therefore interfaces with other software and with the world in a manner which is effectively similar to Bitcoin.  This token has several advances that set it apart from Bitcoin such as the ability to directly interact with zkSync Era Smart Contracts and the rest of the zkSync Ecosytem in a permissionless way.</p>
+<h3 id="background">Background</h3>
+<p>zkBitcoin Token is the implementation of Bitcoin in Solidity.  It is an open source community project, not led by an official team or corporation, and therefore does not have ICO capital or other vast amounts of currency/capital that a centralized token project would have.  We believe as a community that decentralization is the true flavor of the blockchain and that is the architecture that provides open and transparent trust for users.   We also believe that zkSync Era and ERC20 tokens are a significant segment of the future of blockchain technology.</p>
+<p>zkBitcoin Token is designed to be used as a decentralized ‘bitcoin-like’ token within the zkSync Era ecosystem and beyond. All tokens are minted on the zkSync Era Blockchain.  zkBitcoin Token follows a standard protocol (ERC20), tokens are stored on the zkSync Era Blockchain address and it is transferred using standard software which supports EIP20/ERC20 tokens.   Since zkBitcoin Tokens are mined in a completely decentralized manner, there is no central body or central organization which controls or enforces any aspect of zkBitcoin Token.  The community owns and operates the token in a flat structure and every individual has the same power over the smart contract as any other individual.  This is on purpose in order to follow the same model of Bitcoin and to establish zkBitcoin Token as a commodity.  </p>
+<p>One of the most effective side effects of Satoshi Nakamoto&#39;s desire to secure the original Bitcoin network with Proof of Work hash mining was tethering and bootstrapping the coin to computing power, thereby removing centralized actor jurisdiction. Transitioning the responsibility of work back onto individual miners, government organizations would have no jurisdiction, and indeed visibility, of mined zkBitcoin Token. Government oversight is removed from an equation whereby miners are providing economic effort in direct exchange of a cryptographic commodity.  This facilitates relatively decentralized distribution and establishes all involved parties as stakeholders.  zkBitcoin Token (zkBTC) is a token that allows projects to be funded not by centralized, direct-fiat conversion, but through decentralized computing power.</p>
+<h3 id="name-origin-of-zkBitcoin-token">Name Origin of zkBitcoin Token</h3>
+<p>The name zkBitcoin Token is derived from the fact it is a token that is able to be mined and the layer 2 we are on zkSync.</p>
+<p>The symbol zkBTC is from a combination of the term ‘zk’ which implies that the asset lives on a zk layer 2 and BTC for Bitcoin since we mimic Bitcoins proof of work model.  </p>
+<p>The zkBitcoin Token contract is located at zkSync Era address <a href="https://era.zksync.network/address/0x366d17aDB24A7654DbE82e79F85F9Cb03c03cD0D">0x366d17aDB24A7654DbE82e79F85F9Cb03c03cD0D</a> and has validated transparent code which can be audited on the zkSync Era service.  </p>
+<h3 id="proof-of-work-and-icos">Proof of Work and ICOs</h3>
+<p>The zkSync Era blockchain in its current state exists as a thriving permissionless ecosystem which allows any individual to store immutable records in a permissionless, invulnerable and transparent manner.  As blockchain applications become richer and more numerous, there is a need for alternative distribution models than the ICO. Indeed, there have been proposals to mitigate some  initial investment risks through the recent introduction of the DAICO model (Cunningham, 2018) that rely on timed and automated value transfers via the DIACO smart contract tapping mechanism. However, this does not align a token smart contract as a non-security and still has the potential to put investors at risk if not implemented carefully. Allowing users of the network direct access to tokens by performing computations as a proof of work supplies allows any smart contract to distribute a token in a safe, slow, and controlled manner similar to the release of a new commodity.</p>
+<p>As of 2023, most all Ethereum Virtual Machine token distribution methods were flawed and able to be Sybil attacked.  A Sybil attack is a form of computer security attack in which one human pretends to be many humans with multiple computer accounts in order to manipulate a system in a malicious way.  ICOs and airdrops are highly susceptible to Sybil Attacks and since there is no way to verify that all ERC20 tokens distributed by the deployer distributed fairly or unfairly.  zkBitcoin Token, with its unique Proof of Work distribution method, is resistant to Sybil attacks.  This means that zkBitcoin Token is used as a trustless EVM token in the world.  It can be argued that the distribution of zkBitcoin Token is fair since it was only distributed by mathematical hashing and not by a human.</p>
+<h3 id="current-and-proposed-use-cases">Current and Proposed Use Cases</h3>
+<p>As an implementation of the original Bitcoin software as an zkSync Era Smart Contract, zkBitcoin Token (or zkBTC) combines advantages from both Bitcoin, Ethereum and zkSync Era Layer 2s.  The asset is decentralized, permissionless, mined and scarce just like Bitcoin which means it shares all of Bitcoin’s usecases and properties as a transparent and permanent digital record of value.  However, above Bitcoin, zkBitcoin Token has the speed and scalability of the zkSync Era network and is compatible with all ERC20 token services.  This means it can be stored in any EVM wallet, is as secure as zkSync Era blockchain, and can act as ‘the bitcoin’ for the ecosystem.  This is important because Bitcoin is not able to communicate with or interact with the EVMs of Ethereum or Layer 2s.  With zkBitcoin Token, the zkSync Era network is now effectively upgraded with the ability to interface with a commodity which shares all of the same properties as Bitcoin.  Now, all zkSync Era smart contracts can hold, transfer, and trade bitcoin-like tokens permissionlessly and can do so based on immutable rules set forth using their own computer code.</p>
+<h3 id="the-decentralized-token">The Decentralized Token</h3>
+<p>Since zkBitcoin Token is mined like Bitcoin, it acts just like a commodity.  The difficulty of ‘mining’ this commodity automatically adjusts to the total computational power used to mine it.  The current state of the EVM ICO market with its demonstrable failure rate leaves investors vulnerable to holding pseudo-value backed only by speculation. zkBitcoin Token mitigates this problem by providing the zkSync Era blockchain network with a decentralized bitcoin-like asset which is able to fill the role of a multitude of centralized tokens in a more invulnerable and trustless format.</p>
+<p>This powerful mechanism frees individuals from having to use a third party exchange, susceptible to security holes and wallet compromise, and third party escrows. The movement away from centralization is a core tenant of what Satoshi Nakamoto originally intended with classic Bitcoin (Nakamoto, 2009).  zkBitcoin Token has the facilities to help keep the Ethereum ecosystem open, accountable, trustless and decentralized at every step in the value transfer process.  Unlike Bitcoin, zkBitcoin Token can interact decentralzied exchanges such as Uniswap, Sushiswap, and is compatible with zkSync Era smart contracts.  This means that while Bitcoin can only be traded using centralized means, zkBitcoin Token can be traded permissionlessly within immutable permanent smart contracts which are not able to be censored or restricted by central entities.  This is another clear advantage and is closer to fulfilling Satoshi’s complete vision. </p>
+<h3 id="account-system">Account System</h3>
+<p>As an ERC20 token, zkBitcoin Token uses a traditional zkSync Era account. These accounts are free and are impossible to hack or to steal from, given that the private key has not been exposed.  zkBitcoin Token can be stored in a Ledger Nano, Trezor or any other wallet that supports ERC20 tokens.  </p>
+<h2 id="mining">Mining</h2>
+<p>zkBitcoin Token is mined using a simple Keccak256 (Sha3) algorithm using the following methodology:</p>
+<pre><code class="lang-js">   keccak256(challengeNumber, minerEthAddress, <span class="hljs-name">nonce</span>) &lt; difficultyTarget
+</code></pre>
+<p>The nonce is a random number selected by the mining software.  The mining software mines to try to find a valid nonce.  If the above statement evalutates to true, then the nonce is a valid solution to the proof of work.   The challengeNumber is just a recent zkSync Era block hash.  Every round, the challengeNumber updates to the most recent zkSync Era block hash so future works cannot be mined in the past.  The miner&#39;s address is part of the hashed solution so that when a nonce solution is found, it is only valid for that particular miner and man in the middle attacks cannot occur.  This also enables pool mining.</p>
+<p>When mining zkBitcoin Token, whenever a miner submits a solution, the miner must pay a small gas fee in order to execute the zkSync Era smart contract code for the mint() function.  </p>
+<h2 id="smart-contract">Smart Contract</h2>
+<p>Typically, ERC20 tokens will grant all tokens to the owner or will have an ICO which demands that amounts of Ether be sent to the owner for an initial offering of tokens.  Instead of granting tokens to the &#39;contract owner&#39;, all zkBitcoin Tokens are locked within the smart contracts initially. These tokens are dispensed, 50 at a time, by calling the function &#39;mint&#39; and using Proof of Work, similar to mining bitcoin classic. Also the following Smart Contract methods are explicitly supported:</p>
+<h2 id="token">Token</h2>
+<h3 id="erc-20-interface">ERC-20 Interface</h3>
+<h4 id="name">name</h4>
+<p>Returns the name of the token - e.g. <code>&quot;zkBitcoin&quot;</code>.</p>
+<p>OPTIONAL - This method can be used to improve usability,
+but interfaces and other contracts MUST NOT expect these values to be present.</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">name</span><span class="hljs-params">()</span> <span class="hljs-title">constant</span> <span class="hljs-title">returns</span> <span class="hljs-params">(<span class="hljs-keyword">string</span> <span class="hljs-keyword">name</span>)</span></span>
+</code></pre>
+<h4 id="symbol">symbol</h4>
+<p>Returns the symbol of the token. e.g. <code>&quot;zkBTC&quot;</code>.</p>
+<p>OPTIONAL - This method can be used to improve usability,
+but interfaces and other contracts MUST NOT expect these values to be present.</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">symbol</span><span class="hljs-params">()</span> <span class="hljs-title">constant</span> <span class="hljs-title">returns</span> <span class="hljs-params">(<span class="hljs-keyword">string</span> symbol)</span></span>
+</code></pre>
+<h4 id="totalsupply">totalSupply</h4>
+<p>Returns the total token supply.</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">totalSupply</span><span class="hljs-params">()</span> <span class="hljs-title">constant</span> <span class="hljs-title">returns</span> <span class="hljs-params">(uint256 totalSupply)</span></span>
+</code></pre>
+<h4 id="balanceof">balanceOf</h4>
+<p>Returns the account balance of another account with address <code>_owner</code>.</p>
+<pre><code class="lang-js">function balanceOf(<span class="hljs-name">address</span> _owner) constant returns (<span class="hljs-name">uint256</span> balance)
+</code></pre>
+<h3 id="mining-operations">Mining Operations</h3>
+<h4 id="mint">mint</h4>
+<p>Once verified, the mint function calculates and delivers a mining reward to the sender and performs internal accounting operations on the contract&#39;s supply.</p>
+<pre><code class="lang-js">function mint(<span class="hljs-name">uint256</span> nonce, bytes32 challenge_digest) public returns (<span class="hljs-name">bool</span> success)
+</code></pre>
+<h4 id="mint">multiMint_SameAddress</h4>
+<p>Allows multiple solutions (array of nonce), for the current challengeNumber.  As long as there are still blocks left to be mined in this readjustment it will accept the array and check validitiy and pay out the appropriate amount of tokens in one bundled transaction to save transaction fees instead of having single mints.</p>
+<pre><code class="lang-js">function multiMint_SameAddress(<span class="hljs-name">address</span> mintToAddress, <span class="hljs-name">uint256 []</span> nonce) public
+</code></pre>
+
+<h5 id="-mint-event-"><em>Mint Event</em></h5>
+<p>Upon successful verification and reward the mint method dispatches a Mint Event indicating the reward address, the reward amount, the epoch count and newest challenge number.</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">event</span> <span class="hljs-title">Mint</span>(<span class="hljs-params">address indexed <span class="hljs-keyword">from</span>, <span class="hljs-keyword">uint</span> reward_amount, <span class="hljs-keyword">uint</span> epochCount, bytes32 newChallengeNumber</span>)</span>;
+</code></pre>
+
+<h4 id="getchallengenumber">getChallengeNumber</h4>
+<p>Recent zkSync Era block hash, used to prevent pre-mining future blocks.  This is the current challenge we are solving.</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">getChallengeNumber</span><span class="hljs-params">()</span> <span class="hljs-title">public</span> <span class="hljs-title">constant</span> <span class="hljs-title">returns</span> <span class="hljs-params">(bytes32)</span></span>
+</code></pre>
+<h4 id="getMultiMintChallengenumber">getMultiMintChallengeNumber</h4>
+<p>Recent zkSync Era block hash, used to allow extra solutions if they are the minter that changes the difficulty.</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">getMultiMintChallengeNumber</span><span class="hljs-params">()</span> <span class="hljs-title">public</span> <span class="hljs-title">constant</span> <span class="hljs-title">returns</span> <span class="hljs-params">(bytes32)</span></span>
+</code></pre>
+<h4 id="getminingdifficulty">getMiningDifficulty</h4>
+<p>The number of digits that the digest of the PoW solution requires which typically auto adjusts during reward generation.Return the current reward amount. Depending on the algorithm, typically rewards are divided every reward era as tokens are mined to provide scarcity.</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">getMiningDifficulty</span><span class="hljs-params">()</span> <span class="hljs-title">public</span> <span class="hljs-title">constant</span> <span class="hljs-title">returns</span> <span class="hljs-params">(uint)</span></span>
+</code></pre>
+<h4 id="getminingreward">getMiningReward</h4>
+<p>Return the current reward amount.</p>
+<pre><code class="lang-js"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">getMiningReward</span><span class="hljs-params">()</span> <span class="hljs-title">public</span> <span class="hljs-title">constant</span> <span class="hljs-title">returns</span> <span class="hljs-params">(uint)</span></span>
+</code></pre>
+<h3 id="mining-debug-operations">Mining Debug Operations</h3>
+<h4 id="getmintdigest">getMintDigest</h4>
+<p>Returns a test digest using the same hashing scheme used when minting new tokens.</p>
+<pre><code class="lang-js">function getMintDigest(<span class="hljs-name">uint256</span> nonce, bytes32 challenge_digest, bytes32 challenge_number) public view returns (<span class="hljs-name">bytes32</span> digesttest)
+</code></pre>
+<p>OPTIONAL - This method can be used to improve usability,
+but interfaces and other contracts MUST NOT expect these values to be present.</p>
+<h4 id="checkmintsolution">checkMintSolution</h4>
+<p>Verifies a sample solution using the same scheme as the mint method.</p>
+<pre><code class="lang-js"><span class="hljs-built_in">function</span> checkMintSolution(uint256 nonce, bytes32 challenge_digest, bytes32 challenge_number, <span class="hljs-built_in">uint</span> testTarget) <span class="hljs-keyword">public</span> view returns (<span class="hljs-built_in">bool</span> success)
+</code></pre>
+<p>OPTIONAL - This method can be used to improve usability.
+but interfaces and other contracts MUST NOT expect these values to be present.</p><h4 id="checkmintsolution">checkMintSolutionForAddress</h4>
+<p>Verifies a sample solution using the same scheme as the mint method.</p>
+<pre><code class="lang-js"><span class="hljs-built_in">function</span> checkMintSolution2(uint256 nonce, bytes32 challenge_digest, bytes32 challenge_number, <span class="hljs-built_in">uint</span> testTarget, address sender) <span class="hljs-keyword">public</span> view returns (<span class="hljs-built_in">bool</span> success)
+</code></pre>
+<p>OPTIONAL - This method can be used to improve usability.</p>
+<h2 id="minting-new-zkBitcoin-tokens">Minting New zkBitcoin Tokens</h2>
+<p>The zkBitcoin Token was deployed to the zkSync Era blockchain in March, 2024, with the following attributes:</p>
+<ul>
+<li>No pre-mine</li>
+<li>No ICO</li>
+<li>21,000,000 tokens total supply</li>
+<li>Difficulty target auto-adjusts with PoW hashrate</li>
+<li>Rewards decrease as more tokens are minted</li>
+<li>ERC20 compatibility</li>
+</ul>
+<p>As such, the only way for a user to acquire zkBitcoin Tokens is to mine them or purchase them from miners on decentralized exchanges. The mintTo and multiMint_SameAddress functions is responsible for verifying the validity of the hash solution, updating the contracts internal state and issuing new zkBitcoin Token.  They are shown below</p>
+<pre><code class="lang-js">
+        <span class="hljs-function">function <span class="hljs-title">mintTo</span>(<span class="hljs-params">uint256 nonce, address mintToAddress</span>) <span class="hljs-keyword">public</span> </span>{
+            bytes32 localChallengeNumber = challengeNumber;
+            bytes32 digest = keccak256(abi.encodePacked(localChallengeNumber, msg.sender, nonce));
+
+            <span class="hljs-comment">//the digest must be smaller than the target</span>
+            require(uint256(digest) &lt; miningTarget, <span class="hljs-string">"Digest must be smaller than miningTarget"</span>);
+
+            <span class="hljs-comment">//ensure this combination has not been used before</span>
+            require(!usedCombinations[digest], <span class="hljs-string">"Must not have been the first time this solve has been used"</span>);
+            usedCombinations[digest] = true;
+
+            _startNewMiningEpoch();
+
+            _mint(mintToAddress, reward_amount);
+
+            tokensMinted = tokensMinted.<span class="hljs-keyword">add</span>(reward_amount);
+
+            <span class="hljs-function">emit <span class="hljs-title">Mint</span>(<span class="hljs-params">msg.sender, reward_amount, epochCount, localChallengeNumber</span>)</span>;
+        }
+    </code>
+</pre>
+The only way to MultiMint is using the multiMint_SameAddress function.  Which is shown below.
+<pre><code class="lang-js">
+        <span class="hljs-function">function <span class="hljs-title">multiMint_SameAddress_EZ</span>(<span class="hljs-params">address mintToAddress, uint256[] memory nonce</span>) <span class="hljs-keyword">public</span> </span>{
+            uint NextEpochCount = blocksToReadjust();
+            uint xLoop = 0;
+            uint leftOver = 0;
+            uint GoodLoops = 0;
+            bytes32 localChallengeNumber = challengeNumber;
+            uint localMiningTarget = miningTarget;
+
+            <span class="hljs-keyword">for</span> (xLoop = 0; xLoop &lt; nonce.length; xLoop++) {
+                bytes32 digest = keccak256(abi.encodePacked(localChallengeNumber, msg.sender, nonce[xLoop]));
+
+                <span class="hljs-keyword">if</span> (usedCombinations[digest] || uint256(digest) &gt;= localMiningTarget) {
+                    <span class="hljs-keyword">continue</span>;
+                }
+
+                GoodLoops = GoodLoops.<span class="hljs-keyword">add</span>(1);
+                
+                usedCombinations[digest] = true;
+                <span class="hljs-keyword">if</span> (GoodLoops == NextEpochCount) {
+
+                    <span class="hljs-keyword">if</span>(leftOver != 0){
+                        <span class="hljs-keyword">break</span>;
+                    }
+                    
+                    localChallengeNumber = MultiMintChallengeNumber;
+                    _startNewMiningEpoch_MultiMint_Mass_Epochs(GoodLoops - leftOver);
+                    localMiningTarget = miningTarget;
+                    NextEpochCount = GoodLoops + _BLOCKS_PER_READJUSTMENT / 4;
+                    leftOver = GoodLoops;
+                }
+            }
+
+            _startNewMiningEpoch_MultiMint_Mass_Epochs(GoodLoops - leftOver);
+
+            uint payout = GoodLoops * reward_amount;
+
+            <span class="hljs-comment">// Check for max supply and adjust reward era and amount if needed</span>
+            <span class="hljs-keyword">if</span> (tokensMinted.<span class="hljs-keyword">add</span>(payout) &gt; maxSupplyForEra && rewardEra &lt; 59) {
+                rewardEra = rewardEra + 1;
+                maxSupplyForEra = _totalSupply - _totalSupply.<span class="hljs-keyword">div</span>(2 ** (rewardEra + 1));
+                reward_amount = (50 * 10**18) / (2 ** (rewardEra));
+                payout = payout.<span class="hljs-keyword">div</span>(2);
+            }
+            _mint(mintToAddress, payout);
+
+            <span class="hljs-function">emit <span class="hljs-title">Mint</span>(<span class="hljs-params">msg.sender, payout, epochCount, localChallengeNumber</span>)</span>;    
+            
+            tokensMinted = tokensMinted.<span class="hljs-keyword">add</span>(payout);
+
+        }
+    </code>
+</pre>
+
+<p><em>figure 1. zkBitcoin Token Smart Contract mintTo() function</em></p>
+<p><em>figure 2. zkBitcoin Token Smart Contract multiMint_SameAddress() function</em></p>
+<p>The mining reward is initially gathered and follows the same algorithm as Bitcoin classic. Essentially following the paradigm of a fully decentralized monetary system, whereby the tokens are created by the nodes of a peer to peer network. The zkBitcoin Token algorithm defines how the token will be created and at what rate.</p>
+<p>As with Bitcoin, zkBitcoin Tokens are generated every time a user discovers a new block by submiting a Proof of Work for the current challengeNumber.</p>
+<p>A unique &#39;nonce&#39; has to be passed into the mint function along with the hash solution digest in order for tokens to be dispensed. To find this special number, it is necessary to run a mining program. More specifically, the PoW includes a recent zkSync Era block hash combined with the wallet sender&#39;s address in order to prevent man in the middle attacks when minting new coins. The challenge and nonce are validated in solidity using the keccak256 hashing algorithm to decipher the challenge&#39;s digest. Once the digest has been extracted, it is validated to match the expected challenge result and then check to ensure that it is smaller than the mining target difficulty.</p>
+<p>The mining reward is calculated based on the logarithmic halving algorithm making the zkBitcoin Token a reliably deflationary asset. The award is immediately assigned to the sender&#39;s wallet address and the ‘tokens minted count’ is incremented within the smart contract for any other software to monitor. Notably, the contract then validates that the tokens minted count is less than or equal to the maximum supply or the given halving era that transaction is taking place. Next, the contract records diagnostics reflecting reward address, amount and ether block number for the purpose of public transparency and for other software to monitor.</p>
+<h3 id="difficulty-calculation-and-adjustment">Difficulty Calculation and Adjustment</h3>
+<p>After every block is minted, the smart contract will determine if it is time to adjust the difficulty.  This occurs every 1024 mined blocks in the first era.  Just before this occurs, the contract increments the reward era if necessary - this is, if the tokens minted count has exceeded the maximum era supply which is calculated via a simple halving algorithm: </p>
+<p>max_era_supply = total_supply - (total_supply / (2 * (reward_era + 1)))</p>
+<p>This means that the first era supply is 10500000 tokens, the second era supply is 15750000 tokens, the third era supply is 18375000 tokens and so forth.   During the first era, the block reward for a mint() is 50 tokens at 12 minute blocks.  During the second era, the reward is 25 tokens at 12 minute blocks.  During the third era, the reward is 12.5 tokens and at 12 minutes.  During the forth era, the reward is 6.25 tokens and at 12 minute blocks.  And so on and so on.  There are 59 eras total that will reduce the supply rate.  Increasing past a total possible 21,000,000 tokens, but not by much will end rewards for this proof of work token in 150+ years.  At which time zkBitcoin Token can be used as a decentralized digital currency for Ethereum, zkSync Era, and all Layer 2s.  </p>
+<p>The reward era is used to calculate the mining reward.  Next, the zkBitcoin Token smart contract adjusts the difficulty by first determining how much time has passed since the last adjustment.  If less than 12 minutes * 2045 blocks had been mined, zkBitcoin Token is being mined too quickly and the difficulty will increase.  This is accomplished by reducing the size of the ‘target’.  When the target is smaller, valid nonces for minting are more rare and are harder to find for future mining rounds.   Alternatively if zkBitcoin Token is being mined too slowly the target will increase in value in order to make minting more easy to accomplish.  All difficulty targets are bound within minimum and maximum difficulties of 216 and 2234 respectively.</p>
+<h3 id="calculating-mining-hashrate">Calculating Mining Hashrate</h3>
+<p>To calculate approximate hashrate or approximate time to find a solution, the following equation can be used:</p>
+<pre><code>TimeToSolveBlock <span class="hljs-comment">(seconds)</span> = <span class="hljs-comment">(difficulty * 2 ^ 22)</span> / hashrate <span class="hljs-comment">(hashes per second)</span>
+</code></pre><h3 id="risks-and-challenges">Risks and Challenges</h3>
+<p>zkBitcoin Token is implemented as an zkSync Era ERC20 token and so its success is largely dependent on the success of the zkSync Era and Ethereum Network.  If zkSync Era cannot scale, then zkBitcoin Token will not be able to realize its full potential as the fastest and most effective decentralized currency in the world.</p>
+<h3 id="frequently-asked-questions">Frequently Asked Questions</h3>
+<h4 id="does-zkBitcoin-token-have-its-own-blockchain-">Does zkBitcoin Token have its own Blockchain?</h4>
+<p>No. zkBitcoin Token exists on the zkSync Era Blockchain as a Smart Contract. This allows it to leverage a faster, more secure and modern crypto environment.</p>
+<h4 id="how-does-pool-mining-work-with-zkBitcoin-tokens-">How does pool mining work with zkBitcoin Tokens?</h4>
+<p>Essentially the same way that pool mining works for classic Bitcoin, except zkBitcoin Token pools must pay gas fees to the zkSync Era network.  </p>
+<h4 id="how-often-does-difficulty-update-">How often does difficulty update?</h4>
+<p>Every 2048 mints on a challenge OR<br>
+A) If there are less than 512 mints on the challenge and 45 days has elapsed, update difficulty after another max of 64 blocks.<br>
+B) If there are less than 1024 mints but greater than 512 on the challenge and 60 days has elapsed, update difficulty after another max of 64 blocks.<br>
+C) If there are greater than 1024 mints on the challenge and 75 days has elapsed, update difficulty after another max of 64 blocks. </p>
+<h4 id="how-does-the-difficulty-update-">How does the difficulty update?</h4>
+<p>It increases up to 400% or down 25% Target average adjustment time is 15 days.</p>
+<h4 id="will-there-be-a-reward-halvening-event-and-when-">Will there be a reward halvening event and when?</h4>
+<p>At 10.5m tokens mined and when half the remaining has been mined then half of that remaining then half of that remaining, up to 59 iterations.</p>
+<h4 id="since-zkBitcoin-token-is-proof-of-work-doesn-t-that-mean-it-is-bad-for-the-environment-">Since zkBitcoin Token is Proof of Work doesn&#39;t that mean it is bad for the environment?</h4>
+<p>As long as cryptocurrencies exists, mining will always exist.  Even though mining expends energy, it ultimately reduces corruption in society by providing humanity with decentralized and transparent transactional ledgers.  Therefore the idea similar to humanity having to pay for a gigantic decentralized accounting system or police network which is reducing the widespread financial corruption across the globe.  Just as we pay police officers and accountants for their service, we pay blockchain for its service in the form of energy and computation.</p>
+<h3 id="whitepaper-contributors">Whitepaper Contributors</h3>
+<ol>
+<li>Untouchable2k (contract deployer)</li>
+</ol>
+<h3 id="references">References</h3>
+<p>0xBitcoin WhitePaper, 2018
+<a href="https://github.com/0xbitcoin/white-paper/blob/master/README.md">https://github.com/0xbitcoin/white-paper/blob/master/README.md</a></p>
+<p>Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System, 2009. <a href="http://www.bitcoin.org/bitcoin.pdf">http://www.bitcoin.org/bitcoin.pdf</a>.</p>
+<p>Logelin J and 
+ communitiy members. ERC 541 - Mineable Token Standard Draft, 2018. <a href="https://github.com/ethereum/EIPs/pull/918">https://github.com/ethereum/EIPs/pull/918</a></p>
+<p>Fabian Vogelsteller and Vitalik Buterin. ERC-20 Token Standard, 2015. URL <a href="https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md">https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md</a>.</p>
+<p>TrustNodes. The First PoW Bitcoin Like Token Launches on Ethereum, February 16, 2018. <a href="https://www.trustnodes.com/2018/02/16/first-pow-bitcoin-like-token-launches-ethereum">https://www.trustnodes.com/2018/02/16/first-pow-bitcoin-like-token-launches-ethereum</a></p>
+<p>Vitalik Buterin. Ethereum White Paper, 2014. <a href="https://github.com/ethereum/wiki/wiki/White-Paper">https://github.com/ethereum/wiki/wiki/White-Paper</a></p>
+<p>Epstien J. Why Proof of Work in Bitcoin Means Proof of Value in the Real World, December 20, 2017. <a href="https://www.neverstopmarketing.com/proof-work-bitcoin-means-proof-value-real-world/">https://www.neverstopmarketing.com/proof-work-bitcoin-means-proof-value-real-world/</a></p>
+<p>Bitfury Group Limited. &quot;Proof of Stake versus Proof of Work&quot;, 2015. <a href="http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf">http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf</a></p>
+<p><a href="https://en.bitcoin.it/wiki/Controlled_supply">https://en.bitcoin.it/wiki/Controlled_supply</a></p>
+<p>Dai W. &quot;b-money&quot;, 1998. <a href="http://www.weidai.com/bmoney.txt">http://www.weidai.com/bmoney.txt</a></p>
+<p>Back A. &quot;Hashcash - a denial of service counter-measure&quot;, 2002. <a href="http://www.hashcash.org/papers/hashcash.pdf">http://www.hashcash.org/papers/hashcash.pdf</a></p>
+<p>Cunningham A, Ethereum Co-Founder Announces DAICO, a new ICO Fundraising Model (January 15, 2018). <a href="https://discover.coinsquare.io/investing/daico-new-ico-fundraising-model/">https://discover.coinsquare.io/investing/daico-new-ico-fundraising-model/</a></p>
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         <!-- Footer begins-->
+        
+    </div>
+    <!--bootstrap stuff, no touchy-->
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+	</div>
+<footer id="footer.dark taz"> 
+          <div class="container">
+            <div class="row" >
+                <div class="col-sm-6 col-md-3 item">
+                     <h3>Add Token to MetaMask</h3>
+                            
+                                   <button type="button" class="zenableEthereumButton22 btn btn-hover color-1 glowing addedstylebutton">Add zkBitcoin Tokens</button><br>  
+                                   <script>
+                                    let accounts = [];
+                                    //Sending Ethereum to an address
+                                    //
+                                    const ethereumButton22ff = document.querySelector('.zenableEthereumButton22');
+                                    
+                                    ethereumButton22ff.addEventListener('click', () => {
+                                      getAccount22ff();
+                               
+                                   
+                                    });
+                                    
+                                    
+                                    async function getAccount() {
+                                      accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                                      showAccount.innerHTML = accounts;
+                                     console.log(accounts);
+                                    }
+                                        
+                                    
+                                    async function getAccount22ff() {
+                                            
+                                       try {
+                                              await ethereum.request({
+                                                method: 'wallet_switchEthereumChain',
+                                                params: [{ chainId: '0x144' }],
+                                              });
+                                            } catch (switchError) {
+                                              // This error code indicates that the chain has not been added to MetaMask.
+                                              if (switchError.code === 4902) {
+                                                try {
+                                                  await ethereum.request({
+                                                    method: 'wallet_addEthereumChain',
+                                                    params: [{ chainId: '0x144', 
+                                                    chainName: 'zkSync Era',
+                                                    nativeCurrency: {
+                                                        name: 'Ethereum',
+                                                        symbol: 'ETH', // 2-6 characters long
+                                                        decimals: 18
+                                                    },
+                                                    blockExplorerUrls: ['https://explorer.zksync.io/'],
+                                                    rpcUrls: ['https://mainnet.era.zksync.io'] }],
+                                                  });
+                                                } catch (addError) {
+                                                  // handle "add" error
+                                                }
+                                              }
+                                              // handle other "switch" errors
+                                            }		
+                                                    
+                                            await new Promise(r => setTimeout(r, 20));
+                                            accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                                            const tokenAddress2 = '0x366d17aDB24A7654DbE82e79F85F9Cb03c03cD0D';
+                                            const tokenSymbol2 = 'zkBTC';
+                                            const tokenDecimals2 = 18;
+                                            const tokenImage2 = 'https://zkbitcoin.org/img/zkBitcoin.png';
+        
+                                                        
+                                                                                               
+                                            
+                                            try {
+                                              // wasAdded is a boolean. Like any RPC method, an error may be thrown.
+                                              const wasAdded = await ethereum.request({
+                                                method: 'wallet_watchAsset',
+                                                params: {
+                                                  type: 'ERC20', // Initially only supports ERC20, but eventually more!
+                                                  options: {
+                                                    address: tokenAddress2, // The address that the token is at.
+                                                    symbol: tokenSymbol2, // A ticker symbol or shorthand, up to 5 chars.
+                                                    decimals: tokenDecimals2,  // The number of decimals in the token
+                                                    image: tokenImage2, // A string url of the token logo
+        
+                                                  },
+                                                },
+                                              });
+
+                                              if (wasAdded) {
+                                        console.log('Thanks for your interest!');
+                                      } else {
+                                        console.log('Your loss!');
+                                      }
+                                    } catch (error) {
+                                      console.log(error);
+                                    }
+                                        }
+                                    </script>
+
+
+<!--
+           	
+                                   <button type="button" class="zenableEthereumButton222 btn btn-hover color-1 glowing addedstylebutton">Add Test 0xBTC Tokens</button>
+                                     <br>
+
+                                   <button type="button" class="zenableEthereumButton2222 btn btn-hover color-1 glowing addedstylebutton">Add Test 0xBTC / zkBTC LP Tokens</button>     
+                                    <br>
+                                   <button type="button" class="zenableEthereumButtonabcDF btn btn-hover color-1 glowing addedstylebutton">Add Test ETH / zkBTC LP Tokens</button>     
+-->
+                                  
+
+                                    
+                                        <script>
+
+                                    
+  //Sending Ethereum to an address
+  //
+  const vvethereumButton22ffff = document.querySelector('.zenableEthereumButton222');
+  
+  vvethereumButton22ffff.addEventListener('click', () => {
+ 
+    vvgetAccount22ffff();
+
+  });
+  
+  
+  async function getAccount() {
+    accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+    showAccount.innerHTML = accounts;
+   console.log(accounts);
+  }
+
+    async function vvgetAccount22ffff() {
+             
+                                       
+                                            
+                                             try {
+                                              await ethereum.request({
+                                                method: 'wallet_switchEthereumChain',
+                                                params: [{ chainId: '0x144' }],
+                                              });
+                                            } catch (switchError) {
+                                              // This error code indicates that the chain has not been added to MetaMask.
+                                              if (switchError.code === 4902) {
+                                                try {
+                                                  await ethereum.request({
+                                                    method: 'wallet_addEthereumChain',
+                                                    params: [{ chainId: '0x144', 
+                                                    chainName: 'zkSync Era',
+                                                    nativeCurrency: {
+                                                        name: 'Ethereum',
+                                                        symbol: 'ETH', // 2-6 characters long
+                                                        decimals: 18
+                                                    },
+                                                    blockExplorerUrls: ['https://explorer.zksync.io/'],
+                                                    rpcUrls: ['https://mainnet.era.zksync.io'] }],
+                                                  });
+                                                } catch (addError) {
+                                                  // handle "add" error
+                                                }
+                                              }
+                                              // handle other "switch" errors
+                                            }		
+                                                    
+                                            await new Promise(r => setTimeout(r, 20));
+                                            accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                                            const tokenAddress2 = '0xa0E1d12603EA3E256aA52AaB96271e97dC66ED7a';
+                                            const tokenSymbol2 = 'm0xBTC';
+                                            const tokenDecimals2 = 8;
+                                            const tokenImage2 = 'https://zkbitcoin.org/img/0xbitcoin.png';
+        
+                                                                                               
+                                                                                                 
+                                            
+                                            try {
+                                              // wasAdded is a boolean. Like any RPC method, an error may be thrown.
+                                              const wasAdded = await ethereum.request({
+                                                method: 'wallet_watchAsset',
+                                                params: {
+                                                  type: 'ERC20', // Initially only supports ERC20, but eventually more!
+                                                  options: {
+                                                    address: tokenAddress2, // The address that the token is at.
+                                                    symbol: tokenSymbol2, // A ticker symbol or shorthand, up to 5 chars.
+                                                    decimals: tokenDecimals2,  // The number of decimals in the token
+                                                    image: tokenImage2, // A string url of the token logo
+        
+                                                  },
+                                                },
+                                              });
+
+                                              if (wasAdded) {
+                                        console.log('Thanks for your interest!');
+                                      } else {
+                                        console.log('Your loss!');
+                                      }
+                                    } catch (error) {
+                                      console.log(error);
+                                    }
+                                        }
+                                    </script>
+
+                                    
+                                        <script>
+
+                                    
+  //Sending Ethereum to an address
+  //
+  const ethereumButton22ffff = document.querySelector('.zenableEthereumButton2222');
+  
+  ethereumButton22ffff.addEventListener('click', () => {
+ 
+    getAccount22ffff();
+
+  });
+  
+  
+  async function getAccount() {
+    accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+    showAccount.innerHTML = accounts;
+   console.log(accounts);
+  }
+
+    async function getAccount22ffff() {
+             
+                                               
+                                          try {
+                                              await ethereum.request({
+                                                method: 'wallet_switchEthereumChain',
+                                                params: [{ chainId: '0x144' }],
+                                              });
+                                            } catch (switchError) {
+                                              // This error code indicates that the chain has not been added to MetaMask.
+                                              if (switchError.code === 4902) {
+                                                try {
+                                                  await ethereum.request({
+                                                    method: 'wallet_addEthereumChain',
+                                                    params: [{ chainId: '0x144', 
+                                                    chainName: 'zkSync Era',
+                                                    nativeCurrency: {
+                                                        name: 'Ethereum',
+                                                        symbol: 'ETH', // 2-6 characters long
+                                                        decimals: 18
+                                                    },
+                                                    blockExplorerUrls: ['https://explorer.zksync.io/'],
+                                                    rpcUrls: ['https://mainnet.era.zksync.io'] }],
+                                                  });
+                                                } catch (addError) {
+                                                  // handle "add" error
+                                                }
+                                              }
+                                              // handle other "switch" errors
+                                            }		
+                                                    
+                                            await new Promise(r => setTimeout(r, 20));
+                                            accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                                            const tokenAddress2 = '0xBA6d9490927F71069c676f251060913b095a5741';
+                                            const tokenSymbol2 = '0xBTC/zkBTC';
+                                            const tokenDecimals2 = 18;
+                                            const tokenImage2 = 'https://zkbitcoin.org/img/syncswap.png';
+        
+                                                                                                      
+                                            
+                                            try {
+                                              // wasAdded is a boolean. Like any RPC method, an error may be thrown.
+                                              const wasAdded = await ethereum.request({
+                                                method: 'wallet_watchAsset',
+                                                params: {
+                                                  type: 'ERC20', // Initially only supports ERC20, but eventually more!
+                                                  options: {
+                                                    address: tokenAddress2, // The address that the token is at.
+                                                    symbol: tokenSymbol2, // A ticker symbol or shorthand, up to 5 chars.
+                                                    decimals: tokenDecimals2,  // The number of decimals in the token
+                                                    image: tokenImage2, // A string url of the token logo
+        
+                                                  },
+                                                },
+                                              });
+
+                                              if (wasAdded) {
+                                        console.log('Thanks for your interest!');
+                                      } else {
+                                        console.log('Your loss!');
+                                      }
+                                    } catch (error) {
+                                      console.log(error);
+                                    }
+                                        }
+                                    </script>
+
+    
+                                    <script>
+
+                                    
+                                    //Sending Ethereum to an address
+                                    //
+                                    const ethereumButtonabcDF = document.querySelector('.zenableEthereumButtonabcDF');
+                                    
+                                    ethereumButtonabcDF.addEventListener('click', () => {
+                                   
+                                      getAccountabcDF();
+                                
+                                    });
+                                    
+                                    
+                                    async function getAccount() {
+                                      accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                                      showAccount.innerHTML = accounts;
+                                     console.log(accounts);
+                                    }
+
+                                      async function getAccountabcDF() {
+                                            
+                                        
+                                                  
+                                          try {
+                                              await ethereum.request({
+                                                method: 'wallet_switchEthereumChain',
+                                                params: [{ chainId: '0x144' }],
+                                              });
+                                            } catch (switchError) {
+                                              // This error code indicates that the chain has not been added to MetaMask.
+                                              if (switchError.code === 4902) {
+                                                try {
+                                                  await ethereum.request({
+                                                    method: 'wallet_addEthereumChain',
+                                                    params: [{ chainId: '0x144', 
+                                                    chainName: 'zkSync Era',
+                                                    nativeCurrency: {
+                                                        name: 'Ethereum',
+                                                        symbol: 'ETH', // 2-6 characters long
+                                                        decimals: 18
+                                                    },
+                                                    blockExplorerUrls: ['https://explorer.zksync.io/'],
+                                                    rpcUrls: ['https://mainnet.era.zksync.io'] }],
+                                                  });
+                                                } catch (addError) {
+                                                  // handle "add" error
+                                                }
+                                              }
+                                              // handle other "switch" errors
+                                            }		
+                                                    
+                                            await new Promise(r => setTimeout(r, 20));
+                                            accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                                            const tokenAddress2 = '0xe21010cdA483ac1Ae6375e5D50dB2293307C4b60';
+                                            const tokenSymbol2 = 'ETH/zkBTC';
+                                            const tokenDecimals2 = 18;
+                                            const tokenImage2 = 'https://zkbitcoin.org/img/syncswap.png';
+        
+                                                                                               
+                                            
+                                                                                               
+                                            
+                                            try {
+                                              // wasAdded is a boolean. Like any RPC method, an error may be thrown.
+                                              const wasAdded = await ethereum.request({
+                                                method: 'wallet_watchAsset',
+                                                params: {
+                                                  type: 'ERC20', // Initially only supports ERC20, but eventually more!
+                                                  options: {
+                                                    address: tokenAddress2, // The address that the token is at.
+                                                    symbol: tokenSymbol2, // A ticker symbol or shorthand, up to 5 chars.
+                                                    decimals: tokenDecimals2,  // The number of decimals in the token
+                                                    image: tokenImage2, // A string url of the token logo
+        
+                                                  },
+                                                },
+                                              });
+
+                                              if (wasAdded) {
+                                        console.log('Thanks for your interest!');
+                                      } else {
+                                        console.log('Your loss!');
+                                      }
+                                    } catch (error) {
+                                      console.log(error);
+                                    }
+                                        }
+                                    </script>
+                                    <script>
+
+                                    
+                                    //Sending Ethereum to an address
+                                    //
+                                    const ethereumButtonabcDF = document.querySelector('.zenableEthereumButtonabcDF');
+                                    
+                                    ethereumButtonabcDF.addEventListener('click', () => {
+                                   
+                                      getAccountabcDF();
+                                
+                                    });
+                                    
+                                    
+                                    async function getAccount() {
+                                      accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                                      showAccount.innerHTML = accounts;
+                                     console.log(accounts);
+                                    }
+
+                                      async function getAccountabcDF() {
+                                            
+                                        
+                                            
+                                            try {
+                                              await ethereum.request({
+                                                method: 'wallet_switchEthereumChain',
+                                                params: [{ chainId: '0xA4B1' }],
+                                              });
+                                            } catch (switchError) {
+                                              // This error code indicates that the chain has not been added to MetaMask.
+                                              if (switchError.code === 4902) {
+                                                try {
+                                                  await ethereum.request({
+                                                    method: 'wallet_addEthereumChain',
+                                                    params: [{ chainId: '0xA4B1', 
+                                                    chainName: 'Arbitrum One',
+                                                    nativeCurrency: {
+                                                        name: 'Ethereum',
+                                                        symbol: 'ETH', // 2-6 characters long
+                                                        decimals: 18
+                                                    },
+                                                    blockExplorerUrls: ['https://arbiscan.io/'],
+                                                    rpcUrls: ['https://arb1.arbitrum.io/rpc'] }],
+                                                  });
+                                                } catch (addError) {
+                                                  // handle "add" error
+                                                }
+                                              }
+                                              // handle other "switch" errors
+                                            }		
+                                                    
+                                            await new Promise(r => setTimeout(r, 20));
+                                            accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                                            const tokenAddress2 = '0x01e648d9d37df577bc3509d4152efc5590bcb832';
+                                            const tokenSymbol2 = 'ABAS LP 2';
+                                            const tokenDecimals2 = 18;
+                                            const tokenImage2 = 'https://abastoken.org/img/sushiswap-sushi-logo.png';
+        
+                                                                                               
+                                            
+                                            try {
+                                              // wasAdded is a boolean. Like any RPC method, an error may be thrown.
+                                              const wasAdded = await ethereum.request({
+                                                method: 'wallet_watchAsset',
+                                                params: {
+                                                  type: 'ERC20', // Initially only supports ERC20, but eventually more!
+                                                  options: {
+                                                    address: tokenAddress2, // The address that the token is at.
+                                                    symbol: tokenSymbol2, // A ticker symbol or shorthand, up to 5 chars.
+                                                    decimals: tokenDecimals2,  // The number of decimals in the token
+                                                    image: tokenImage2, // A string url of the token logo
+        
+                                                  },
+                                                },
+                                              });
+
+                                              if (wasAdded) {
+                                        console.log('Thanks for your interest!');
+                                      } else {
+                                        console.log('Your loss!');
+                                      }
+                                    } catch (error) {
+                                      console.log(error);
+                                    }
+                                        }
+                                    </script>
+
+
+
+			</ul></div>
+                        
+                        </li>
+                    </ul>
+                
+                <div class="col-sm-6 col-md-3 item">
+                    <h3>About</h3>
+                    <ul>
+                        <li><a href="howtomine.html">How to Mine</a></li>
+                        <li><a href="whitepaper.html">Whitepaper</a></li>
+                        <li><a href="team.html">Contact Us</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col-md-6 item text">
+                    <h3>zkBitcoin</h3>
+                    <h5>A new way to DEFI. Mine it yourself with your GPU/FPGA/ASIC miner!! All decentralized!!</h5>
+                </div>
+                <div class="col item">
+                    <a href="https://t.me/zkBitcoinToken" aria-label="Telegram">
+                  <i class="fa fa-telegram zeropadding"></i></a>
+                    <a href="https://twitter.com/zkBitcoinToken/" aria-label="Twitter">
+                  <i class="fa fa-twitter zeropadding"></i></a>
+                    <a href="https://medium.com/@zkBitcoinToken/" aria-label="Medium">  
+                  <i class="fa fa-medium zeropadding"></i></a>
+                    <a href="https://github.com/ZKBitcoinToken" aria-label="Github">  
+                  <i class="fa fa-github zeropadding"></i></a>
+                    <a href="https://discord.gg/dNKbmFvvJU" aria-label="Discord">  
+                  <i class="">Join Our Discord</i></a></div>
+            </div>
+        </div>
+<footer>
+</body>
+
+</html>
