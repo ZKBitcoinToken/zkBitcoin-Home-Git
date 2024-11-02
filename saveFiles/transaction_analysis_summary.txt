@@ -1,0 +1,960 @@
+Address Cost Summary
+==================
+
+Address: 0x49228d306754af5d16d477149ee50bef5ca286be
+Total Cost: 35461739841413150
+Transaction Count: 723
+Average Cost per Transaction: 49048049573185.55
+--------------------------------------------------
+
+Address: 0xb8e12b7e6693cd5d22476b81c2a62b387e7c71c0
+Total Cost: 26501651415342034
+Transaction Count: 1789
+Average Cost per Transaction: 14813667644126.35
+--------------------------------------------------
+
+Address: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Total Cost: 20209028251250000
+Transaction Count: 977
+Average Cost per Transaction: 20684778148669.39
+--------------------------------------------------
+
+Address: 0xe355a7411732a6a43e804ee3629e48ef14156962
+Total Cost: 17260310525000000
+Transaction Count: 506
+Average Cost per Transaction: 34111285622529.64
+--------------------------------------------------
+
+Address: 0x671da44b1d661d3bcc2e958661b7865f34271581
+Total Cost: 14008196500000000
+Transaction Count: 211
+Average Cost per Transaction: 66389556872037.91
+--------------------------------------------------
+
+Address: 0x3f8ac9dab4bf6dc4c218dcf6f82407cd2f49fcaa
+Total Cost: 13674934850000000
+Transaction Count: 212
+Average Cost per Transaction: 64504409669811.32
+--------------------------------------------------
+
+Address: 0x3904e22beb7232d082bf0ed06ee3b7bcbb42550f
+Total Cost: 11960625700000000
+Transaction Count: 174
+Average Cost per Transaction: 68739228160919.54
+--------------------------------------------------
+
+Address: 0x8ddebd64f820ea118a8c3d509d33ba08ee0ebacc
+Total Cost: 8730076525000000
+Transaction Count: 196
+Average Cost per Transaction: 44541206760204.08
+--------------------------------------------------
+
+Address: 0x7eeb23b0f050d773ab143f0dcb64333dae3a74c8
+Total Cost: 8132749875000000
+Transaction Count: 232
+Average Cost per Transaction: 35054956357758.62
+--------------------------------------------------
+
+Address: 0xea7eab0be423d6f3a54c137113a885017d5c37ed
+Total Cost: 7040862900000000
+Transaction Count: 258
+Average Cost per Transaction: 27290166279069.77
+--------------------------------------------------
+
+Address: 0x7355eee6d9db62911292935fdb76ce1252d65136
+Total Cost: 6066356075000000
+Transaction Count: 103
+Average Cost per Transaction: 58896660922330.09
+--------------------------------------------------
+
+Address: 0xe9683a4aeda8e7c2c75283a8ac7824c6a608e576
+Total Cost: 5134770000000000
+Transaction Count: 92
+Average Cost per Transaction: 55812717391304.35
+--------------------------------------------------
+
+Address: 0x5d520c9b41ed2308f5e31395f2c9c6437d1287ea
+Total Cost: 4996835875000000
+Transaction Count: 105
+Average Cost per Transaction: 47588913095238.09
+--------------------------------------------------
+
+Address: 0xe3800f400f0740b201dffaf9fb6fd1c573cb3615
+Total Cost: 4512346400000000
+Transaction Count: 68
+Average Cost per Transaction: 66358035294117.65
+--------------------------------------------------
+
+Address: 0xb6b815a0bf9b51ce7e5f6a2bdc502a770683e538
+Total Cost: 4182165625000000
+Transaction Count: 59
+Average Cost per Transaction: 70884163135593.22
+--------------------------------------------------
+
+Address: 0x74ebf6346ff72435974a63c947cf555394e10531
+Total Cost: 3685269800000000
+Transaction Count: 53
+Average Cost per Transaction: 69533392452830.19
+--------------------------------------------------
+
+Address: 0x8b4203f1febd682b823391a651976f536d3d1687
+Total Cost: 3660207550000000
+Transaction Count: 67
+Average Cost per Transaction: 54629963432835.82
+--------------------------------------------------
+
+Address: 0x23400dc0cc44fb8f295fd4c73bb19528066b59f3
+Total Cost: 3502800075000000
+Transaction Count: 52
+Average Cost per Transaction: 67361539903846.16
+--------------------------------------------------
+
+Address: 0xd5830899ad47f29118f09ca78aa68ea19d7a8c2d
+Total Cost: 3261150275000000
+Transaction Count: 48
+Average Cost per Transaction: 67940630729166.66
+--------------------------------------------------
+
+Address: 0x40220816e58a8fe70aa16d3fd92fda86f31f8958
+Total Cost: 3186973750000000
+Transaction Count: 182
+Average Cost per Transaction: 17510844780219.78
+--------------------------------------------------
+
+Address: 0xf38d113ad0c46c523f059581086262bed4fe2f3d
+Total Cost: 3081796650000000
+Transaction Count: 46
+Average Cost per Transaction: 66995579347826.09
+--------------------------------------------------
+
+Address: 0x7c258e29e71b9e245cf043fa5fbf276af5b3346a
+Total Cost: 2971268832750000
+Transaction Count: 273
+Average Cost per Transaction: 10883768618131.87
+--------------------------------------------------
+
+Address: 0xcbccd79949369fc4924ec7164c2816191154b898
+Total Cost: 2699024300000000
+Transaction Count: 38
+Average Cost per Transaction: 71026955263157.89
+--------------------------------------------------
+
+Address: 0xce9c631b873ff820383df0186a1765c92f7e5c3a
+Total Cost: 2652446975000000
+Transaction Count: 49
+Average Cost per Transaction: 54131570918367.34
+--------------------------------------------------
+
+Address: 0x97eaa569faff371ca9283dd26a78d52b736e77f1
+Total Cost: 2614967975000000
+Transaction Count: 38
+Average Cost per Transaction: 68814946710526.31
+--------------------------------------------------
+
+Address: 0x8cb54a9fd413598ae9c1dce1845d2f1e42235ec9
+Total Cost: 2548300400000000
+Transaction Count: 40
+Average Cost per Transaction: 63707510000000.00
+--------------------------------------------------
+
+Address: 0x7341fef31aaa29e3fd286142b5fcecfaa8c1ced8
+Total Cost: 2468882375000000
+Transaction Count: 38
+Average Cost per Transaction: 64970588815789.48
+--------------------------------------------------
+
+Address: 0xcc407af33fcd11b628e2fab3918d863ea4c6841c
+Total Cost: 2193169025000000
+Transaction Count: 35
+Average Cost per Transaction: 62661972142857.14
+--------------------------------------------------
+
+Address: 0x779b2d72111cbcd5c9facd0e354f403c421a87e1
+Total Cost: 2020504775000000
+Transaction Count: 31
+Average Cost per Transaction: 65177573387096.77
+--------------------------------------------------
+
+Address: 0xec2098b961d70c735a243dbd3f08dee516dde10c
+Total Cost: 2017885200000000
+Transaction Count: 29
+Average Cost per Transaction: 69582248275862.07
+--------------------------------------------------
+
+Address: 0x06d819c0d16047ccde90cccc225618368d86ec28
+Total Cost: 1993888425000000
+Transaction Count: 28
+Average Cost per Transaction: 71210300892857.14
+--------------------------------------------------
+
+Address: 0x8526817f15cb846b6219260ed5139c614ec152e0
+Total Cost: 1770265950000000
+Transaction Count: 30
+Average Cost per Transaction: 59008865000000.00
+--------------------------------------------------
+
+Address: 0x2ed6e8e32ea9be8634bef6fefa8b779f5bae7743
+Total Cost: 1703828700000000
+Transaction Count: 24
+Average Cost per Transaction: 70992862500000.00
+--------------------------------------------------
+
+Address: 0x689a8b1edbb832871a7d3127cbd2c2c909188d06
+Total Cost: 1698797450000000
+Transaction Count: 24
+Average Cost per Transaction: 70783227083333.33
+--------------------------------------------------
+
+Address: 0x296ebacdee2e60ef1606a9f23e1c4a4dec342676
+Total Cost: 1697030325000000
+Transaction Count: 137
+Average Cost per Transaction: 12387082664233.58
+--------------------------------------------------
+
+Address: 0xb1d3d43d51c391c1a4ddb77b9455381efaf35a99
+Total Cost: 1612012575000000
+Transaction Count: 113
+Average Cost per Transaction: 14265598008849.56
+--------------------------------------------------
+
+Address: 0x75ae5a39ee32480b3cbbabeb2a5308b930824c8e
+Total Cost: 1605049200000000
+Transaction Count: 25
+Average Cost per Transaction: 64201968000000.00
+--------------------------------------------------
+
+Address: 0x047023af74e02a2bc0ba09d6c842cf722915d09d
+Total Cost: 1583640789750000
+Transaction Count: 206
+Average Cost per Transaction: 7687576649271.84
+--------------------------------------------------
+
+Address: 0xba3234781c95b84389b4e074129a285f1fae6be7
+Total Cost: 1560878350000000
+Transaction Count: 28
+Average Cost per Transaction: 55745655357142.86
+--------------------------------------------------
+
+Address: 0x6565f794df2533355725924c323603b1b7186be0
+Total Cost: 1557343050000000
+Transaction Count: 22
+Average Cost per Transaction: 70788320454545.45
+--------------------------------------------------
+
+Address: 0xd64dc01c837f30b999a3452c30bb3ea15391e5fe
+Total Cost: 1476488725000000
+Transaction Count: 27
+Average Cost per Transaction: 54684767592592.59
+--------------------------------------------------
+
+Address: 0xba11d2189d6aeddca24c578663e87dcd94f39d90
+Total Cost: 1422516050000000
+Transaction Count: 102
+Average Cost per Transaction: 13946235784313.72
+--------------------------------------------------
+
+Address: 0x619a1683cdeaeec8c1b2f952245d7f64360017d6
+Total Cost: 1413565725000000
+Transaction Count: 82
+Average Cost per Transaction: 17238606402439.02
+--------------------------------------------------
+
+Address: 0x661fa79a440a0981be9596a1965a853a2a55ba7e
+Total Cost: 1340032975000000
+Transaction Count: 18
+Average Cost per Transaction: 74446276388888.89
+--------------------------------------------------
+
+Address: 0x02ea092539a0cc0fe75c7025faf7937badfaeffe
+Total Cost: 1175739350000000
+Transaction Count: 23
+Average Cost per Transaction: 51119102173913.05
+--------------------------------------------------
+
+Address: 0xd6ac258c40963352e8e15b8a76065fbc99efc064
+Total Cost: 1115340375000000
+Transaction Count: 15
+Average Cost per Transaction: 74356025000000.00
+--------------------------------------------------
+
+Address: 0xdbdee88204719463338550aa3510fd8ba72783cb
+Total Cost: 1067733000000000
+Transaction Count: 17
+Average Cost per Transaction: 62807823529411.77
+--------------------------------------------------
+
+Address: 0xb1d99e89e31bc85ad6f6e7812e0d64d0444679ab
+Total Cost: 1037839525000000
+Transaction Count: 62
+Average Cost per Transaction: 16739347177419.36
+--------------------------------------------------
+
+Address: 0xfaf20e5ca7e39d43a3aabc450602b4147c3aa62e
+Total Cost: 1018010546500000
+Transaction Count: 158
+Average Cost per Transaction: 6443104724683.54
+--------------------------------------------------
+
+Address: 0x8b4e5a95d08f7ba62f8900a316a37b1261410450
+Total Cost: 1008876200000000
+Transaction Count: 14
+Average Cost per Transaction: 72062585714285.72
+--------------------------------------------------
+
+Address: 0xb244ac11719dd68a9cb37e95b13e4c7d32443d91
+Total Cost: 987906150000000
+Transaction Count: 24
+Average Cost per Transaction: 41162756250000.00
+--------------------------------------------------
+
+Address: 0x7c17779175b3a669dc5fabbbb5e55d582364b666
+Total Cost: 945751650000000
+Transaction Count: 34
+Average Cost per Transaction: 27816225000000.00
+--------------------------------------------------
+
+Address: 0x357812e0a7448e06f5fc09d6101983502fd7ea8c
+Total Cost: 895074575000000
+Transaction Count: 15
+Average Cost per Transaction: 59671638333333.34
+--------------------------------------------------
+
+Address: 0xd50b3d1630953edebab16eb4b37c2112ae56f841
+Total Cost: 847604800000000
+Transaction Count: 13
+Average Cost per Transaction: 65200369230769.23
+--------------------------------------------------
+
+Address: 0x9cd1c07320f1ba68e241528b22b95c5859fad897
+Total Cost: 790330075000000
+Transaction Count: 33
+Average Cost per Transaction: 23949396212121.21
+--------------------------------------------------
+
+Address: 0xbd4ae0dc3c0fa45e0119d3c108acde1dad5e7825
+Total Cost: 758929725000000
+Transaction Count: 17
+Average Cost per Transaction: 44642925000000.00
+--------------------------------------------------
+
+Address: 0x17ac83d6e90b4e33dd9f1f65c2b9626b5c7421a2
+Total Cost: 749104425000000
+Transaction Count: 10
+Average Cost per Transaction: 74910442500000.00
+--------------------------------------------------
+
+Address: 0xb2b9f28a84a48b99de81ac239909c38af32519c7
+Total Cost: 618328650000000
+Transaction Count: 12
+Average Cost per Transaction: 51527387500000.00
+--------------------------------------------------
+
+Address: 0xc2e4d6d16c28311d8e45662769251cae7acb46c2
+Total Cost: 604969900000000
+Transaction Count: 19
+Average Cost per Transaction: 31840521052631.58
+--------------------------------------------------
+
+Address: 0x163998d6a37d33de4f115dece59aebf97d891033
+Total Cost: 598413575000000
+Transaction Count: 58
+Average Cost per Transaction: 10317475431034.48
+--------------------------------------------------
+
+Address: 0x446af214dc98e2a9a405099d7d34047a2c59ed8a
+Total Cost: 555049475000000
+Transaction Count: 30
+Average Cost per Transaction: 18501649166666.67
+--------------------------------------------------
+
+Address: 0x6fc9e57413d7e5d0250580118d580368d848fc20
+Total Cost: 549383800000000
+Transaction Count: 9
+Average Cost per Transaction: 61042644444444.45
+--------------------------------------------------
+
+Address: 0x576d0564fc48ce036a076c740a5f72473853b129
+Total Cost: 447000300000000
+Transaction Count: 7
+Average Cost per Transaction: 63857185714285.71
+--------------------------------------------------
+
+Address: 0x4b837038ee5ff8fbfc66cdad6def8f4c915c9b26
+Total Cost: 433061825000000
+Transaction Count: 11
+Average Cost per Transaction: 39369256818181.82
+--------------------------------------------------
+
+Address: 0x758bd4c7dc64400ded19db0b2a1143fb48aa055b
+Total Cost: 412031075000000
+Transaction Count: 23
+Average Cost per Transaction: 17914394565217.39
+--------------------------------------------------
+
+Address: 0x68807c78bc150fe544bbe8028bbff6979a83798a
+Total Cost: 402816975000000
+Transaction Count: 8
+Average Cost per Transaction: 50352121875000.00
+--------------------------------------------------
+
+Address: 0x8a9eaab215b448b31e388ac0e7c3fd5b3020145b
+Total Cost: 339634650000000
+Transaction Count: 18
+Average Cost per Transaction: 18868591666666.67
+--------------------------------------------------
+
+Address: 0xb5e292305951ca8ae31d06f73313005803902e03
+Total Cost: 337835775000000
+Transaction Count: 13
+Average Cost per Transaction: 25987367307692.31
+--------------------------------------------------
+
+Address: 0x5285bc7355d88156b385c4581c6fe20058755cce
+Total Cost: 336884875000000
+Transaction Count: 12
+Average Cost per Transaction: 28073739583333.33
+--------------------------------------------------
+
+Address: 0x2937d75b326bae98fd823f3e5e4ea01fe9de37e3
+Total Cost: 324245000000000
+Transaction Count: 7
+Average Cost per Transaction: 46320714285714.29
+--------------------------------------------------
+
+Address: 0x8161a4d478ea159073875d6cc0a94c7cb075e2b3
+Total Cost: 313654400000000
+Transaction Count: 18
+Average Cost per Transaction: 17425244444444.45
+--------------------------------------------------
+
+Address: 0x59a04dd52488035f603bfee9d3923dedc8af8361
+Total Cost: 311269225000000
+Transaction Count: 4
+Average Cost per Transaction: 77817306250000.00
+--------------------------------------------------
+
+Address: 0x6ebc2f6a4f0ddcd22ee2304f38285b8da603c8ce
+Total Cost: 306802750000000
+Transaction Count: 14
+Average Cost per Transaction: 21914482142857.14
+--------------------------------------------------
+
+Address: 0xfda282ce63f5f6b9f6a8ab1b8be3ed688daa5568
+Total Cost: 300842000000000
+Transaction Count: 19
+Average Cost per Transaction: 15833789473684.21
+--------------------------------------------------
+
+Address: 0xb0c5eb8d3f1a4f94791f6ef83b8e14234a02d63a
+Total Cost: 299184900000000
+Transaction Count: 18
+Average Cost per Transaction: 16621383333333.33
+--------------------------------------------------
+
+Address: 0x98a0da697e714b212de8f391118fc4ab97ff9cb5
+Total Cost: 264464700000000
+Transaction Count: 13
+Average Cost per Transaction: 20343438461538.46
+--------------------------------------------------
+
+Address: 0x1db74e2b9473a168ff60ce3adea89b604abf6dd7
+Total Cost: 258245700000000
+Transaction Count: 20
+Average Cost per Transaction: 12912285000000.00
+--------------------------------------------------
+
+Address: 0xd4e9602901a2598eee2a19a749f578d54dc13fe7
+Total Cost: 238846875000000
+Transaction Count: 13
+Average Cost per Transaction: 18372836538461.54
+--------------------------------------------------
+
+Address: 0xd9e948f9dde5507f265c7e2594e89d5adaabf596
+Total Cost: 226497975000000
+Transaction Count: 4
+Average Cost per Transaction: 56624493750000.00
+--------------------------------------------------
+
+Address: 0x3aaf876a323a1f1ff3ac4d338cff8763b69ad152
+Total Cost: 196919300000000
+Transaction Count: 3
+Average Cost per Transaction: 65639766666666.66
+--------------------------------------------------
+
+Address: 0x93016dddf6b957ea38d051cd538958d7af7fa6ee
+Total Cost: 190850200000000
+Transaction Count: 12
+Average Cost per Transaction: 15904183333333.33
+--------------------------------------------------
+
+Address: 0x72ccdee3e9671cbfe2294c4a05e3ba0f26d3b4c2
+Total Cost: 188982550000000
+Transaction Count: 6
+Average Cost per Transaction: 31497091666666.67
+--------------------------------------------------
+
+Address: 0xb10a05f073856c5d920850b937a9a36dad1d587e
+Total Cost: 171777550000000
+Transaction Count: 16
+Average Cost per Transaction: 10736096875000.00
+--------------------------------------------------
+
+Address: 0x13a36c6b8d3fa3828fd713605a8a724dc4c6b2ab
+Total Cost: 165433850000000
+Transaction Count: 9
+Average Cost per Transaction: 18381538888888.89
+--------------------------------------------------
+
+Address: 0xddbe9171ddc2153f999fd5abc4ccde7f1531e173
+Total Cost: 157536850000000
+Transaction Count: 12
+Average Cost per Transaction: 13128070833333.33
+--------------------------------------------------
+
+Address: 0x94ae3d07c734a1fccdcdf8b1274c1f158c14fb56
+Total Cost: 155602275000000
+Transaction Count: 8
+Average Cost per Transaction: 19450284375000.00
+--------------------------------------------------
+
+Address: 0x757f180c0a82692da9e0fe513cb65c9dac0a5746
+Total Cost: 154912475000000
+Transaction Count: 7
+Average Cost per Transaction: 22130353571428.57
+--------------------------------------------------
+
+Address: 0x5b4777cbfd323b8c31294a7d866d86d32d75362a
+Total Cost: 145393050000000
+Transaction Count: 2
+Average Cost per Transaction: 72696525000000.00
+--------------------------------------------------
+
+Address: 0xcbfa7a131e6e3b14e9fd65fbdc298a550bb469b9
+Total Cost: 132416650000000
+Transaction Count: 3
+Average Cost per Transaction: 44138883333333.34
+--------------------------------------------------
+
+Address: 0x08cafab0c2ec5fa3dbb6b3129e028dea303d4a29
+Total Cost: 131815175000000
+Transaction Count: 4
+Average Cost per Transaction: 32953793750000.00
+--------------------------------------------------
+
+Address: 0x74829dc2686c29ef72e298b2f3705b7ba30fbfbe
+Total Cost: 129340500000000
+Transaction Count: 2
+Average Cost per Transaction: 64670250000000.00
+--------------------------------------------------
+
+Address: 0x6035034da33d383d86b2af789555242b78598d0c
+Total Cost: 126339625000000
+Transaction Count: 7
+Average Cost per Transaction: 18048517857142.86
+--------------------------------------------------
+
+Address: 0xddd23f80208de84ff30426e85e4f8a5fff218c6b
+Total Cost: 125987800000000
+Transaction Count: 3
+Average Cost per Transaction: 41995933333333.34
+--------------------------------------------------
+
+Address: 0xe93ccf943e79f782fa96fcc6ed41639eb25b7d08
+Total Cost: 124378825000000
+Transaction Count: 9
+Average Cost per Transaction: 13819869444444.45
+--------------------------------------------------
+
+Address: 0x42639f78f1a1e03a934676d02e6da9e36123ed91
+Total Cost: 115860775000000
+Transaction Count: 3
+Average Cost per Transaction: 38620258333333.34
+--------------------------------------------------
+
+Address: 0xfb01c2f9c3542fc009e0b8b7cc05cfc59fe4deb3
+Total Cost: 110493300000000
+Transaction Count: 6
+Average Cost per Transaction: 18415550000000.00
+--------------------------------------------------
+
+Address: 0xadc7c76fc5df36d5117f06e984de96183e7f2326
+Total Cost: 109466850000000
+Transaction Count: 6
+Average Cost per Transaction: 18244475000000.00
+--------------------------------------------------
+
+Address: 0x752a6d55e32c04a9440e89a25ec7333bc0020fec
+Total Cost: 107648875000000
+Transaction Count: 3
+Average Cost per Transaction: 35882958333333.34
+--------------------------------------------------
+
+Address: 0x85a432dbac7432b84a67ecef304a4d612f56e437
+Total Cost: 107193475000000
+Transaction Count: 6
+Average Cost per Transaction: 17865579166666.67
+--------------------------------------------------
+
+Address: 0x4f4c5bfcb9bea78b33dff25d3ceadac18064d284
+Total Cost: 105931675000000
+Transaction Count: 5
+Average Cost per Transaction: 21186335000000.00
+--------------------------------------------------
+
+Address: 0xb23c87ff53bb32bc5d31fe781f07d51f35d0e422
+Total Cost: 105212600000000
+Transaction Count: 6
+Average Cost per Transaction: 17535433333333.33
+--------------------------------------------------
+
+Address: 0x33e24d66498d1bf4032bb69d8cc3f6a2c1fbd071
+Total Cost: 102628225000000
+Transaction Count: 5
+Average Cost per Transaction: 20525645000000.00
+--------------------------------------------------
+
+Address: 0xa91a3b6ba63e66394039fbcb75e298309089700d
+Total Cost: 101080775000000
+Transaction Count: 4
+Average Cost per Transaction: 25270193750000.00
+--------------------------------------------------
+
+Address: 0x448c3a180e3e26190929cb9a64fd8f50cb5208dd
+Total Cost: 96528175000000
+Transaction Count: 2
+Average Cost per Transaction: 48264087500000.00
+--------------------------------------------------
+
+Address: 0xd58eede5ab6c1a16335f4fa425495192d2cbfde2
+Total Cost: 93542725000000
+Transaction Count: 2
+Average Cost per Transaction: 46771362500000.00
+--------------------------------------------------
+
+Address: 0x9840034611adc042da1f5405cefb34097e4d3bbe
+Total Cost: 88033275000000
+Transaction Count: 1
+Average Cost per Transaction: 88033275000000.00
+--------------------------------------------------
+
+Address: 0x879e9c73ad585bc447cebd495da818e100a81696
+Total Cost: 86368225000000
+Transaction Count: 6
+Average Cost per Transaction: 14394704166666.67
+--------------------------------------------------
+
+Address: 0x5d4d0711897e44d8d9439ddedcdff88a68d414ae
+Total Cost: 85325300000000
+Transaction Count: 5
+Average Cost per Transaction: 17065060000000.00
+--------------------------------------------------
+
+Address: 0x7240f72bd4c1df07fde65f31e33fcfdd5a5d0d7a
+Total Cost: 79630725000000
+Transaction Count: 7
+Average Cost per Transaction: 11375817857142.86
+--------------------------------------------------
+
+Address: 0x8749d4644df627a9b563f5fba1e11e9a48716bef
+Total Cost: 76074700000000
+Transaction Count: 5
+Average Cost per Transaction: 15214940000000.00
+--------------------------------------------------
+
+Address: 0xb2fe8c293485d172d2bfa09fca0d6aa5a8ac3568
+Total Cost: 75278425000000
+Transaction Count: 5
+Average Cost per Transaction: 15055685000000.00
+--------------------------------------------------
+
+Address: 0xa27fa27d7513d3d5955b342d72767c60f1273236
+Total Cost: 74520500000000
+Transaction Count: 5
+Average Cost per Transaction: 14904100000000.00
+--------------------------------------------------
+
+Address: 0x1ae0529fef48426c9f167c9779c5a537f5b8272f
+Total Cost: 71351500000000
+Transaction Count: 5
+Average Cost per Transaction: 14270300000000.00
+--------------------------------------------------
+
+Address: 0x07a6d063897cb6e755fc8a0b43f064875f31935f
+Total Cost: 63745575000000
+Transaction Count: 4
+Average Cost per Transaction: 15936393750000.00
+--------------------------------------------------
+
+Address: 0xc11359f575b5ae05351915e57bc97d4488c0a3b9
+Total Cost: 63144550000000
+Transaction Count: 6
+Average Cost per Transaction: 10524091666666.67
+--------------------------------------------------
+
+Address: 0xcaf331138a455a65ab6329ebcb7cce9f7bb75a15
+Total Cost: 62190075000000
+Transaction Count: 3
+Average Cost per Transaction: 20730025000000.00
+--------------------------------------------------
+
+Address: 0x7abc22ed428db7fb160141f969a4f8e166d3f29f
+Total Cost: 61711125000000
+Transaction Count: 4
+Average Cost per Transaction: 15427781250000.00
+--------------------------------------------------
+
+Address: 0x55a9bf8b854e2a5b6c1bcdf619726ebae9c22086
+Total Cost: 58287825000000
+Transaction Count: 2
+Average Cost per Transaction: 29143912500000.00
+--------------------------------------------------
+
+Address: 0x3d899c9e1306f5eac436505984cc23214c9d6727
+Total Cost: 57968175000000
+Transaction Count: 4
+Average Cost per Transaction: 14492043750000.00
+--------------------------------------------------
+
+Address: 0xcfa408f506b2c37ec24b3dcba555a31cc89723ed
+Total Cost: 57413650000000
+Transaction Count: 2
+Average Cost per Transaction: 28706825000000.00
+--------------------------------------------------
+
+Address: 0xcf6d0304c4c2645459c3aedb23c2e267bf26bfb0
+Total Cost: 56968025000000
+Transaction Count: 3
+Average Cost per Transaction: 18989341666666.67
+--------------------------------------------------
+
+Address: 0x214bd4e12eb6a079cba09a86b9b5d3dc4b73bd0a
+Total Cost: 53919350000000
+Transaction Count: 3
+Average Cost per Transaction: 17973116666666.67
+--------------------------------------------------
+
+Address: 0x946f46114a254ccf9bf9c96d8d0a7fab8c2a7b1b
+Total Cost: 50069400000000
+Transaction Count: 3
+Average Cost per Transaction: 16689800000000.00
+--------------------------------------------------
+
+Address: 0x3aff404913cb532ccb7a033be46b92d4ae531a24
+Total Cost: 49624450000000
+Transaction Count: 4
+Average Cost per Transaction: 12406112500000.00
+--------------------------------------------------
+
+Address: 0xab8e715f0fe0c7dd3d951f35e263d5f61c21f0dc
+Total Cost: 48289675000000
+Transaction Count: 2
+Average Cost per Transaction: 24144837500000.00
+--------------------------------------------------
+
+Address: 0xca07d5248d5dc4db3218a655993f25384f7ed2bf
+Total Cost: 47786525000000
+Transaction Count: 2
+Average Cost per Transaction: 23893262500000.00
+--------------------------------------------------
+
+Address: 0x6098a4cda58c71eb536027e7cd29ac73197cd71d
+Total Cost: 46763375000000
+Transaction Count: 2
+Average Cost per Transaction: 23381687500000.00
+--------------------------------------------------
+
+Address: 0x34d2f7907f9ae18b5dea3805f2390a2e94d8a783
+Total Cost: 44524525000000
+Transaction Count: 2
+Average Cost per Transaction: 22262262500000.00
+--------------------------------------------------
+
+Address: 0x30e7dd1cadedd62a28e400719f7f660086e5bd6b
+Total Cost: 43493700000000
+Transaction Count: 4
+Average Cost per Transaction: 10873425000000.00
+--------------------------------------------------
+
+Address: 0x311cbc98731f26ba4d05e1a7626d55f07975e008
+Total Cost: 43480900000000
+Transaction Count: 2
+Average Cost per Transaction: 21740450000000.00
+--------------------------------------------------
+
+Address: 0x7e0448e1a13ffa930fde2d43cfb7d6666454a6cc
+Total Cost: 42607450000000
+Transaction Count: 2
+Average Cost per Transaction: 21303725000000.00
+--------------------------------------------------
+
+Address: 0x7c8888f217b77b00357485eceb81b064708e63fd
+Total Cost: 35353275000000
+Transaction Count: 1
+Average Cost per Transaction: 35353275000000.00
+--------------------------------------------------
+
+Address: 0x18e59ae81fe57dc1a94f5c9263f584d09ef11030
+Total Cost: 35119150000000
+Transaction Count: 1
+Average Cost per Transaction: 35119150000000.00
+--------------------------------------------------
+
+Address: 0x2be5c795f7186e3313ad971adb4db0192a677794
+Total Cost: 33645300000000
+Transaction Count: 1
+Average Cost per Transaction: 33645300000000.00
+--------------------------------------------------
+
+Address: 0x82fe3b31e6395503e80d1cc33445cb8461390d13
+Total Cost: 33455025000000
+Transaction Count: 1
+Average Cost per Transaction: 33455025000000.00
+--------------------------------------------------
+
+Address: 0x717f17efd7865b383165580c66232d1f6fa48469
+Total Cost: 32301575000000
+Transaction Count: 3
+Average Cost per Transaction: 10767191666666.67
+--------------------------------------------------
+
+Address: 0x7da54048c21c5f35afd32319aac4e1fced773525
+Total Cost: 31890250000000
+Transaction Count: 1
+Average Cost per Transaction: 31890250000000.00
+--------------------------------------------------
+
+Address: 0x8cd4924ec7cf700b0f5bbebb0985cddee037aeb2
+Total Cost: 31549400000000
+Transaction Count: 2
+Average Cost per Transaction: 15774700000000.00
+--------------------------------------------------
+
+Address: 0x7956b81846b89b04804365ea7f0fd80bb5e999a1
+Total Cost: 31133700000000
+Transaction Count: 2
+Average Cost per Transaction: 15566850000000.00
+--------------------------------------------------
+
+Address: 0x4ce23ae57d70ab4c71590c0185f2d8e16f21bfbe
+Total Cost: 29359075000000
+Transaction Count: 1
+Average Cost per Transaction: 29359075000000.00
+--------------------------------------------------
+
+Address: 0x7bb474cf7bbabf1ee7d76731e548aa17648d7a72
+Total Cost: 28602325000000
+Transaction Count: 1
+Average Cost per Transaction: 28602325000000.00
+--------------------------------------------------
+
+Address: 0x45d2a081260aa5e710242e38a421719ca2e962de
+Total Cost: 28386450000000
+Transaction Count: 2
+Average Cost per Transaction: 14193225000000.00
+--------------------------------------------------
+
+Address: 0x46e29cde9c1f3a762ecfd5d608616992547d6187
+Total Cost: 28180624500000
+Transaction Count: 4
+Average Cost per Transaction: 7045156125000.00
+--------------------------------------------------
+
+Address: 0x4803a75c40ac19e0dd2463cf043ad67aee9fadf8
+Total Cost: 25873775000000
+Transaction Count: 2
+Average Cost per Transaction: 12936887500000.00
+--------------------------------------------------
+
+Address: 0x04fda56e0f6dd0473e40fdf55cb9edac6cceb42f
+Total Cost: 25790850000000
+Transaction Count: 2
+Average Cost per Transaction: 12895425000000.00
+--------------------------------------------------
+
+Address: 0xa664f71275809cc2576c552f8f82c2dac61d9874
+Total Cost: 25517225000000
+Transaction Count: 5
+Average Cost per Transaction: 5103445000000.00
+--------------------------------------------------
+
+Address: 0x2f735390057de1c0fa848cf11a9ad4245944273a
+Total Cost: 24998825000000
+Transaction Count: 1
+Average Cost per Transaction: 24998825000000.00
+--------------------------------------------------
+
+Address: 0x60db19dc016d5b4eb2fc40d28c838f3e94643741
+Total Cost: 22188800000000
+Transaction Count: 1
+Average Cost per Transaction: 22188800000000.00
+--------------------------------------------------
+
+Address: 0x10f9919f5b86b0e30b10df9d9d63534ad0e081f4
+Total Cost: 21811775000000
+Transaction Count: 2
+Average Cost per Transaction: 10905887500000.00
+--------------------------------------------------
+
+Address: 0xcbf13ef06369c10596943f03b8928adc15211840
+Total Cost: 21528700000000
+Transaction Count: 1
+Average Cost per Transaction: 21528700000000.00
+--------------------------------------------------
+
+Address: 0x158befea2f2fdeb0ba1168ad48ccb8c2dcc89449
+Total Cost: 21147225000000
+Transaction Count: 1
+Average Cost per Transaction: 21147225000000.00
+--------------------------------------------------
+
+Address: 0x9ccc27ed320b2f40988cecfe376c25d6b6cdb9ce
+Total Cost: 17208825000000
+Transaction Count: 1
+Average Cost per Transaction: 17208825000000.00
+--------------------------------------------------
+
+Address: 0xc136b3fb5d89c972ca77dd45405e26cc45694488
+Total Cost: 15813325000000
+Transaction Count: 1
+Average Cost per Transaction: 15813325000000.00
+--------------------------------------------------
+
+Address: 0xfc2793dcb0f3873b589f9a630cbc55ead3d5e181
+Total Cost: 15504975000000
+Transaction Count: 1
+Average Cost per Transaction: 15504975000000.00
+--------------------------------------------------
+
+Address: 0xad6a5be29c8910e433ab506a4dd1d2dd40c8321d
+Total Cost: 15309075000000
+Transaction Count: 1
+Average Cost per Transaction: 15309075000000.00
+--------------------------------------------------
+
+Address: 0x88f149e25b20ea3ef2efe1aba4b6c12a757389f2
+Total Cost: 15110175000000
+Transaction Count: 1
+Average Cost per Transaction: 15110175000000.00
+--------------------------------------------------
+
+Address: 0xf7f70d3060f5824329bc06737eee173e7bcdee52
+Total Cost: 14848325000000
+Transaction Count: 1
+Average Cost per Transaction: 14848325000000.00
+--------------------------------------------------
+
+Address: 0xc6676f96542e2c0fe3359ce5ec29267e5ea6bf7a
+Total Cost: 13968300000000
+Transaction Count: 1
+Average Cost per Transaction: 13968300000000.00
+--------------------------------------------------
+
+Address: 0xd8d7b6b88e6950d397a32bd523ff7f563cc3f26a
+Total Cost: 11117895000000
+Transaction Count: 2
+Average Cost per Transaction: 5558947500000.00
+--------------------------------------------------
+
+Grand Total Cost Across All Addresses: 279478900746505184
+Total Unique Addresses: 159
+Total Mint Transactions : 8663
