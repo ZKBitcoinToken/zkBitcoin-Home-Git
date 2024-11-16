@@ -14,9 +14,9 @@ Average Cost per Transaction: 14813667644126.35
 --------------------------------------------------
 
 Address: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
-Total Cost: 20209028251250000
-Transaction Count: 977
-Average Cost per Transaction: 20684778148669.39
+Total Cost: 24083184243000000
+Transaction Count: 1076
+Average Cost per Transaction: 22382141489776.95
 --------------------------------------------------
 
 Address: 0xe355a7411732a6a43e804ee3629e48ef14156962
@@ -955,6 +955,6 @@ Transaction Count: 2
 Average Cost per Transaction: 5558947500000.00
 --------------------------------------------------
 
-Grand Total Cost Across All Addresses: 279478900746505184
+Grand Total Cost Across All Addresses: 283353056738255184
 Total Unique Addresses: 159
-Total Mint Transactions : 8663
+Total Mint Transactions : 8762
